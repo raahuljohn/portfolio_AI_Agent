@@ -1,0 +1,12 @@
+{
+  "integrations": {
+    "chat": {
+      "version": "chat@0.7.5",
+      "enabled": true
+    },
+    "webchat": {
+      "version": "webchat@0.3.0",
+      "enabled": true
+    }
+  }
+}
