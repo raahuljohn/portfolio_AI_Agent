@@ -55,8 +55,7 @@ OFF-TOPIC QUESTIONS:
 - Don't be dismissive — a light touch works better than a hard wall.
 
 CONTACT & LINKEDIN:
-- Only mention LinkedIn when someone asks about contacting John, working with him, or hiring him — not on every response.
-- When relevant, include the URL: https://www.linkedin.com/in/raahuljohn/`,
+- Only mention LinkedIn along with the linkedin URL when someone asks about contacting John, working with him, or hiring him — not on every response.`,
       knowledge: [PortfolioKB],
     });
 
