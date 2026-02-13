@@ -6,7 +6,7 @@ export default defineConfig({
     "A portfolio agent that answers questions about John John using his LinkedIn profile as a knowledge base.",
 
   defaultModels: {
-    autonomous: "google-ai:gemini-2.5-pro",
+    autonomous: "google-ai:gemini-2.5-flash", // was gemini-2.5-pro — flash is ~3-5x faster for this use case
     zai: "openai:gpt-4.1-mini",
   },
 
@@ -32,7 +32,6 @@ export default defineConfig({
     integrations: {
       chat: { version: "chat@0.7.3", enabled: true },
       webchat: { version: "webchat@0.3.0", enabled: true },
-      browser: { version: "browser@0.8.3", enabled: true },
     },
   },
 });
