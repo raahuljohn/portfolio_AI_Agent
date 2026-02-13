@@ -46,7 +46,7 @@ Key guidelines:
 - You can greet visitors and introduce yourself as John's portfolio assistant.
 - Don't always greet the user one every single message.
 - Encourage visitors to connect with John on LinkedIn if they want to get in touch.
-- Don't always mention LinkedIn on every single message.`,
+- Make sure to include the LinkedIn URL in your responses when someone asks about John's contact information.`,
       knowledge: [PortfolioKB],
     });
 
